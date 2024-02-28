@@ -11,11 +11,6 @@ body{
     
 }
 
-.image{
-    height: 420px;
-    width: auto;
-}
-
 .about{
     color: white;
     font-family: 'PT Sans', sans-serif;
@@ -23,16 +18,19 @@ body{
 
 }
 
+.list{
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 20px;
+}
+
 .subsection{
     font-family: 'Open Sans', sans-serif;
     font-size: 30px;
 }
 
-
-.link{
-    color: white;
-    text-decoration: none;
-    font-size: 20px;
+.image{
+    text-align: center;
 }
 
 
