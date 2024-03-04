@@ -20,7 +20,7 @@ body{
 .image{
     height: 430px;
     width: auto;
-    margin:50px;
+    
 }
 
 .about{
@@ -41,7 +41,7 @@ span{
     font-family: 'Open Sans', sans-serif;
     font-size: 30px;
     padding: 10px;
-    margin: 10px;
+    margin: 5px;
  
 }
 
