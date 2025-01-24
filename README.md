@@ -1,4 +1,4 @@
-Recipes Project
+# Recipes Project
 Welcome to the Recipes Project! This is a simple static website that showcases a collection of recipes. It was my first project, and my main goal was to experiment with web development concepts, focus on building a functional app, and improve my HTML and CSS skills.
 
 🚀 Project Overview
